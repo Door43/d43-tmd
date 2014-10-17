@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tmd:home|Door43 (tmd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tmd|d43-tmd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tmd/archive/master.zip|d43-tmd.zip]]
+
+**Recent Changes**
+{{changes>ns = tmd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tmd|Ethnologue data]]
+
